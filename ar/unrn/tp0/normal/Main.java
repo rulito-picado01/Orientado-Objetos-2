@@ -9,3 +9,5 @@ public class Main {
     }
 
 }
+//Segun el articulo aqui cree los objetos con sus funcionalidades
+//para que en el main de la orden de que hacer, utilizando las funcionalidades de la clase tiempo
